@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone=no>
+<!-- Dubins Config -->
+<config>
+   <!-- <start x="31.138" y="13.67" yaw="6.136" /> -->
+   <!-- <end x="43.853" y="15.500" yaw="1.54" /> -->
+   <!-- <start x="25.158739" y="16.307072" yaw="-5.799859" /> -->
+   <!-- <start x="100.0" y="200.0" yaw="0.0" /> -->
+   <end x="65.875" y="117.802" yaw="5.558" />
+   <!-- <end x="31.125" y="13.625" yaw="0.0" /> -->
+   <!-- <start x="43.853" y="10.371" yaw="1.540" /> -->
+   <!-- <end x="29.931418" y="14.348775" yaw="5.236137" /> -->
+   <!-- <start x="9.455669" y="16.660771" yaw="-4.720706" /> -->
+   <end x="2100.0" y="3800.0" yaw="1.570796" />
+
+   <options trans_velocity="13.4112" angular_velocity="0.335" turn_in_place_velocity="2.235" number_of_angles="50" number_of_repeats="1" path_type="-1" debug="true" max_path_angle="6.2"> 
+	<out_dir>out/</out_dir>
+        <path_file>path.txt</path_file>
+        <point_file>points.txt</point_file>
+   </options>
+</config>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
